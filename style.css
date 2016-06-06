@@ -11,14 +11,20 @@ html {
 
 body {
     font-family: 'Lato', sans-serif;
-    padding: 20px;
-    height: 100%;
+    padding: 5px 20px 60px 20px;
     background-color: #272727;
     color: white;
 }
 
 p {
     font-size: 15pt;
+}
+
+.profile-pic {
+    width: 100px;
+    float: left;
+    margin-top:18px;
+    margin-right: 5px;
 }
 
 i.large-icon {
@@ -32,6 +38,14 @@ i.large-icon {
     text-align: center;
     width: 150px;
     height: 150px;
+    margin-bottom: 20px;
+}
+.link-button:link {
+    color:white
+}
+
+.link-button:visited {
+    color:white
 }
 
 .button-box {
@@ -40,4 +54,12 @@ i.large-icon {
     justify-content: space-around;
     align-content: center;
     padding-top: 5em;
+}
+
+a:link {
+    color: #FF8D6F;
+}
+
+a:visited {
+    color: #FFD76F;
 }
