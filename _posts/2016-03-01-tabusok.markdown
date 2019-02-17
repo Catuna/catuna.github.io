@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Tabusøk"
+date:   2016-03-01
+categories: blog programming
+---
+This is a short article I wrote for Abakus' student publication README.
+
+<a href="http://readme.abakus.no/utgaver/2016/2016-03.pdf#page=13">Link to README nr. 3 2016</a>
